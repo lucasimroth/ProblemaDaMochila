@@ -1,0 +1,10 @@
+nome;valor;peso
+Expresso Norte;180;35
+Ligeirinho Sul;140;25
+Interbairros I;85;15
+Linha Direta Centro-Boqueirão;150;28
+Alimentador Terminal Cabral;60;10
+Circular Centro;95;18
+Expresso Leste-Oeste;200;40
+Linha Verde;120;22
+ligeirao;100;24
